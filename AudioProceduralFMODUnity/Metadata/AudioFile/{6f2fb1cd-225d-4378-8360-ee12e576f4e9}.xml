@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6f2fb1cd-225d-4378-8360-ee12e576f4e9}">
+		<property name="assetPath">
+			<value>Foots_Pista 3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.68191666666666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{217045f3-cd90-4206-91e5-a649912d744f}</destination>
+		</relationship>
+	</object>
+</objects>

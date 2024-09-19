@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c6c7aad3-3e01-4c22-a0ea-51caf56c9143}">
+		<property name="assetPath">
+			<value>641480__felixblume__dog-barking-near-the-road-factory-noise-far-away-and-children-talking-as-they-get-out-at-dawn-time-in-phoenix-arizona.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>88.324968749999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{217045f3-cd90-4206-91e5-a649912d744f}</destination>
+		</relationship>
+	</object>
+</objects>

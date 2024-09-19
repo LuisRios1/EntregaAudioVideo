@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1b80edab-1ac3-4056-aa8e-10913df892e4}">
+		<property name="assetPath">
+			<value>www_screencapture_com_2024-5-25_19_02.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>143.69999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{217045f3-cd90-4206-91e5-a649912d744f}</destination>
+		</relationship>
+	</object>
+</objects>

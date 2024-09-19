@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c8af249f-fecd-4059-88e0-1e2c65752d87}">
+		<property name="assetPath">
+			<value>59164__timtube__scream.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.2899773242630386</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{217045f3-cd90-4206-91e5-a649912d744f}</destination>
+		</relationship>
+	</object>
+</objects>

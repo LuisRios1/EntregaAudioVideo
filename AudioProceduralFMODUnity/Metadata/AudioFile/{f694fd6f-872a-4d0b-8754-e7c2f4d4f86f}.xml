@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f694fd6f-872a-4d0b-8754-e7c2f4d4f86f}">
+		<property name="assetPath">
+			<value>525045__audio_dread__creepy-dissonant-horror-music.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>120.7777097505669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{217045f3-cd90-4206-91e5-a649912d744f}</destination>
+		</relationship>
+	</object>
+</objects>
